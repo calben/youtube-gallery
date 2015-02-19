@@ -1,6 +1,6 @@
 ---
 layout: post
-img: example-2.jpg
+img: example-2.jpeg
 category: gallery
 title: Second Example Gallery
 description: You can put the description of the overall topic for a specific gallery here.  This description is different from the first
