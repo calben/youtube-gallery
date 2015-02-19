@@ -2,7 +2,8 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: /youtube-gallery
+baseurl: /youtube-gallery
+url: calben.github.io/youtube-gallery
 title: youtube gallery
 email: calem.j.bendell@gmail.com
 description: > # "site description
