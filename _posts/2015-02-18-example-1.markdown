@@ -1,0 +1,11 @@
+---
+layout: post
+img: example-1.jpg
+category: gallery
+title: First Example Gallery
+description: You can put the description of the overall topic for a specific gallery here.
+date: 2015/02/18
+---
+
+
+Extra content and description here.

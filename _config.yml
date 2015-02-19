@@ -1,0 +1,28 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://calben.github.io/youtube-gallery
+title: youtube gallery
+email: calem.j.bendell@gmail.com
+description: > # "site description
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: github
+    url: https://github.com/calben
+  - title: linkedin
+    url: https://www.linkedin.com/pub/calem-bendell/4a/a27/8a4
+  - title: g+
+    url: https://plus.google.com/+CalemBendell/
